@@ -1,0 +1,11 @@
+flask
+openai
+chromadb
+
+langgraph
+langchain
+transformers
+torch
+python-docx
+openai
+
